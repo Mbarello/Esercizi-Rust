@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio1/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio2_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio2_4/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio5/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio6/Tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio7/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Esercizio8/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Esercizio1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Esercizio2_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Esercizio3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Esercizio5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Esercizio6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Esercizio7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Esercizio8/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
